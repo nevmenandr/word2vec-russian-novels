@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: word2vec Russian novels
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12814086
+repository-code: 'https://github.com/nevmenandr/word2vec-russian-novels'
+url: 'https://nevmenandr.github.io/novel2vec/'
+abstract: >-
+  Inspired by word2vec-pride-vis the replacement of words of
+  Russian most valuable novels text with closest word2vec
+  model words.
+keywords:
+  - word2vec
+  - russian
+  - Digital Humanities
+license: GPL-3.0
+commit: 87ddfbdb3737f0494da17d7048ff96b15f7012ba
+version: 1.0.0
+date-released: '2019-10-20'
