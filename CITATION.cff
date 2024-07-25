@@ -7,7 +7,6 @@ type: dataset
 authors:
   - given-names: Boris
     family-names: Orekhov
-    name-particle: Boris Orekhov
     email: nevmenandr@gmail.com
     affiliation: HSE University
     orcid: 'https://orcid.org/0000-0002-9099-0436'
@@ -22,7 +21,7 @@ abstract: >-
   model words.
 keywords:
   - word2vec
-  - russian
+  - Russian literature
   - Digital Humanities
 license: GPL-3.0
 commit: 87ddfbdb3737f0494da17d7048ff96b15f7012ba
