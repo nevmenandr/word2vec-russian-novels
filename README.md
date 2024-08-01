@@ -2,9 +2,9 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-# word2vec-russian-novels
+# word2vec-russian-novels 📖
 
-Fun digital humanities project by [Boris Orekhov](http://nevmenandr.net/bo.php)
+Fun digital humanities project by [Boris Orekhov](https://nevmenandr.github.io/)
 
 Inspired by [this work](https://github.com/arnicas/word2vec-pride-vis) the replacement of words of Russian most valuable novels text with closest word2vec model words.
 
